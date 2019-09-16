@@ -1,0 +1,4 @@
+phone,500,45
+laptop,750,17
+TV,1500,30
+earphone,150,59

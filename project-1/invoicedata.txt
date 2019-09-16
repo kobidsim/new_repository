@@ -1,0 +1,16 @@
+kobid,laptop,1
+kobid,laptop,3
+kobid,phone,5
+kobid,TV,2
+Ram,phone,1
+Shyam,laptop,1
+Shila,phone,1
+kobid,laptop,2
+kobid,laptop,3
+kobid,phone,1
+shyam,phone,1
+hari,earphone,1
+kobid,TV,1
+raju,TV,1
+kobid,TV,1
+rajendra,laptop,2
